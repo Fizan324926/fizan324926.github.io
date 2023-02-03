@@ -1,7 +1,7 @@
 <?php
 
 $recepient = "fizanali324926@gmail.com";
-$sitename = "Arter Portfolio";
+$sitename = "Portfolio";
 
 $name = trim($_POST["name"]);
 $email = trim($_POST["email"]);
